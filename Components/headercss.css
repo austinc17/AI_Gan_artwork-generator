@@ -1,0 +1,23 @@
+
+
+.headerclass {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+   
+    padding-bottom: 20px;
+    
+   
+    
+
+    
+}
+.headerclass h1{
+    margin-left: 630px;
+    text-shadow: 0 0 6px white, 0 0 10px greenyellow;
+    
+    
+    
+    
+}
+

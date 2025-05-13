@@ -1,0 +1,27 @@
+.imageclass{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-left: 630px;
+    padding-top: 100px;
+    
+    
+   
+    
+    
+    
+    
+    
+}
+
+.imageclass img{
+    
+    border-radius: 8px;
+    box-shadow:
+    0 0 10px white,
+    0 0 20px white,
+    0 0 35px greenyellow;
+    
+    
+   
+}

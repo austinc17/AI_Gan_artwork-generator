@@ -1,0 +1,33 @@
+.btnsclass{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 100px;
+    margin-left: 480px;
+    
+    
+}
+
+.btnsclass button{
+    margin-left: 150px;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    padding: 14px 28px;
+    border: solid white 2px;
+    cursor: pointer;
+    background: transparent;
+
+
+}
+
+.btnsclass button:hover{
+    background-color: rgba(255, 255, 255, 0.05); /* subtle fade */
+    box-shadow:
+    0 0 10px white,
+    0 0 20px white,
+    0 0 35px greenyellow;
+    border-color: white;
+    background: greenyellow;
+    color: black;
+    
+}
